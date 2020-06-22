@@ -17,7 +17,7 @@ Each submodule is a repository on its own with its respective functionalities an
 
 ### Installation
 
-For the complete installation including dependencies etc, please refer [Installation guide]( https://github.com/Dash-Industry-Forum/DASH-IF-Conformance/blob/master/Doc/Installation_Guide.pdf).
+For the complete installation including dependencies etc, please refer [Installation guide]( https://github.com/Dash-Industry-Forum/DASH-IF-Conformance/blob/master/Doc/Conformance%20Software%20Installation%20Guide.pdf).
 
 To clone the IntegratedConformance with all the submodules, use the command, 
 
@@ -25,11 +25,11 @@ git clone --recurse-submodules https://github.com/Dash-Industry-Forum/DASH-IF-Co
 
 ### Usage Guide
 
-Information on how to use the conformance software, please refer to our [Usage Guide]( https://github.com/Dash-Industry-Forum/DASH-IF-Conformance/blob/master/Doc/Usage_Guide_for_Conformance_Software.pdf) document.
+Information on how to use the conformance software, please refer to our [Usage Guide]( https://github.com/Dash-Industry-Forum/DASH-IF-Conformance/blob/master/Doc/Conformance%20Software%20Usage%20Guide.pdf) document.
 
 ### Detailed Information
 
-For the framework of the conformance software and how the general conformance testing process works, please refer to the [DASH-IF-Conformance document](https://github.com/Dash-Industry-Forum/DASH-IF-Conformance/blob/master/Doc/IntegratedConformance_doc.pdf).
+For the framework of the conformance software and how the general conformance testing process works, please refer to the [DASH-IF-Conformance document](https://github.com/Dash-Industry-Forum/DASH-IF-Conformance/blob/master/Doc/Conformance%20Software.pdf).
 
 ### Issue Reporting
 
